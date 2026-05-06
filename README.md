@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ramasai88
 
-### A passionate Javascript developer
+### A passionate Java Backend developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ramasai88&label=Profile views&color=0e75b6&style=flat" alt="Ramasai88" /> </p>
 
