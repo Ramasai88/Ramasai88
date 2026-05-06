@@ -37,9 +37,9 @@
 
 
 ## 🚀 Projects
-- 🔹 Smart Education Platform *(In Progress)*  
-- 🔹 Expense Tracker (Java Application)  
-- 🔹 Telegram Study Assistant Bot  
+-  Smart Education Platform  
+-  Expense Tracker (Java Application)  
+-  Telegram Study Assistant Bot  
 
 
 
@@ -55,7 +55,7 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/kramasai/  
 - 💻 GitHub: https://github.com/Ramasai88  
 
----
+
 
 ## 💬 Quote
 > I focus on building systems, not just writing code.
