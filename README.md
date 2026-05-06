@@ -2,62 +2,48 @@
 <h3 align="center">BTech Student | AI & ML Enthusiast | Backend Developer (Java & Spring Boot)</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ramasai88&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Ramasai88&label=Profile%20views&color=0e75b6&style=flat" alt="Ramasai88" />
 </p>
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 - 🎓 BTech Student focused on Software Development & AI  
-- 🤖 Working on Machine Learning projects  
+- 🤖 Currently working on Machine Learning projects  
 - ⚙️ Building backend systems using Java & Spring Boot  
 - 🌱 Learning Full Stack Development & System Design  
-- 💬 Ask me about Java, Spring Boot, APIs  
-- 📫 ramsaihanumanthu26@gmail.com  
+- 💬 Ask me about Java, Spring Boot, REST APIs  
+- 📫 Email: ramsaihanumanthu26@gmail.com  
 
 ---
 
-### 🛠️ Tech Stack
-
-**💻 Languages**  
-Java • Python • JavaScript • SQL  
-
-**⚙️ Backend**  
-Spring Boot • REST APIs  
-
-**🎨 Frontend**  
-HTML • CSS • React  
-
-**🗄️ Database**  
-MySQL • PostgreSQL  
-
-**🧰 Tools**  
-Git • GitHub • Postman • Docker • Linux  
+## 🛠️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,html,css,react,spring,mysql,postgres,git,github,postman,docker,linux)](https://skillicons.dev)
 
 ---
 
-### 🚀 Projects
-- Smart Education Platform *(In Progress)*  
-- Expense Tracker (Java CLI)  
-- Telegram Study Assistant Bot  
+## 🚀 Projects
+- 🔹 Smart Education Platform *(In Progress)*  
+- 🔹 Expense Tracker (Java CLI Application)  
+- 🔹 Telegram Study Assistant Bot  
 
 ---
 
-### 🌐 Connect
+## 🎯 Current Focus
+- 🚀 Building real-world backend applications  
+- 🤖 Learning AI & Machine Learning deeply  
+- 🧠 Improving DSA & problem-solving skills  
+- ⚡ Moving towards production-level development  
+
+---
+
+## 🌐 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/kramasai/  
 - 💻 GitHub: https://github.com/Ramasai88  
 
 ---
 
-### 🎯 Current Focus
-- 🚀 Building real-world backend projects  
-- 🤖 Learning AI & Machine Learning deeply  
-- 🧠 Improving DSA & problem-solving  
-- ⚡ Moving towards production-level development  
-
----
-
-### 💬 Quote
+## 💬 Quote
 > I focus on building systems, not just writing code.
 
 ⭐️ From Ramasai
