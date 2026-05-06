@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Ramasai88&label=Profile%20views&color=0e75b6&style=flat" alt="Ramasai88" />
 </p>
 
----
+
 
 ## 🧠 About Me
 - 🎓 BTech Student focused on Software Development & AI  
@@ -15,7 +15,7 @@
 - 💬 Ask me about Java, Spring Boot, REST APIs  
 - 📫 Email: ramsaihanumanthu26@gmail.com  
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -34,14 +34,14 @@
 ### 🧰 Tools & Platforms
 [![Tools](https://skillicons.dev/icons?i=git,github,postman,docker,linux,aws,figma)](https://skillicons.dev)
 
----
+
 
 ## 🚀 Projects
 - 🔹 Smart Education Platform *(In Progress)*  
-- 🔹 Expense Tracker (Java CLI Application)  
+- 🔹 Expense Tracker (Java Application)  
 - 🔹 Telegram Study Assistant Bot  
 
----
+
 
 ## 🎯 Current Focus
 - 🚀 Building real-world backend applications  
@@ -49,7 +49,7 @@
 - 🧠 Improving DSA & problem-solving skills  
 - ⚡ Moving towards production-level development  
 
----
+
 
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/kramasai/  
